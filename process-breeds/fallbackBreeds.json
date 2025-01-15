@@ -1,7 +1,7 @@
 {
   "Albino": {
     "genderOnly": false,
-    "releaseDate": ["2009-07-15"],
+    "releaseDate": ["2009-07-11"],
     "sprites": ["zZ7E",0,-1,48],
     "tags": ["standard","western","neutral","alpine","forest","regular"]
   },
@@ -55,7 +55,7 @@
   },
   "Black": {
     "genderOnly": false,
-    "releaseDate": ["2006-05-21"],
+    "releaseDate": ["2006-05-28"],
     "subentries": {
       "Alt.": {
         "sprites": ["bktN",-15,-1,48,"S1tr",-4,-1,48]
@@ -189,7 +189,7 @@
   },
   "Dark Green": {
     "genderOnly": false,
-    "releaseDate": ["2006-06-01"],
+    "releaseDate": ["2006-06-08"],
     "subentries": {
       "Alt.": {
         "sprites": ["F3EP",0,-1,48]
@@ -350,7 +350,7 @@
   },
   "Green": {
     "genderOnly": false,
-    "releaseDate": ["2006-05-21"],
+    "releaseDate": ["2006-05-27"],
     "sprites": ["NRSH",0,-1,48],
     "tags": ["standard","western","earth","forest","volcano","regular","Has BSA"]
   },
@@ -416,6 +416,7 @@
   },
   "Magi": {
     "genderOnly": false,
+    "releaseDate": ["2006-06-08"],
     "sprites": ["CSJeS",-36,-1,48],
     "tags": ["standard","western","magi","all","regular","Has BSA"]
   },
@@ -552,7 +553,7 @@
   },
   "Purple": {
     "genderOnly": false,
-    "releaseDate": ["2006-05-21"],
+    "releaseDate": ["2006-06-09"],
     "sprites": ["VdVa",-11,-1,48,"9QQ4i",0,-1,48],
     "tags": ["standard","western","life","all","regular","Has BSA"]
   },
